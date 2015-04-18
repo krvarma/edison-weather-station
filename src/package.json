@@ -1,0 +1,16 @@
+{
+  "name": "edison-cylon",
+  "description": "Basic weather station using Intel Edison, Cylon.JS, Pubnub and Freeboard.io",
+  "version": "0.0.1",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+      "cylon": "*",
+      "pubnub": "*",
+      "cylon-intel-iot": "*",
+      "cylon-i2c": "*",
+      "cylon-gpio": "*"
+  }
+}
