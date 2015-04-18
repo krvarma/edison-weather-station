@@ -1,7 +1,7 @@
 Basic weather station using Intel Edison, Cylon.js, Pubnub and Freeboard.io
 -------------------------------------
 
-This is project I worked this weekend. The project use Intel Edison and BMP180 sensor for the weather data. Using Cylon.js I collect the sensor data display it on Freeboard.io using Pubnub real-time communication. 
+This is project I worked this weekend. The project use Intel Edison and BMP085 sensor for the weather data. Using Cylon.js I collect the sensor data display it on Freeboard.io using Pubnub real-time communication. 
 
 Cylon.js is a powerful JavaScript robotic framework based on Node.js and supports multiple development platform and different sensors. You can install Cylon.js on Intel Edison and use it to create powerful programs. In this project I use Pubnub for real-time communication and Freeboard.io is used to create beautiful dashboard. You can also send sensor data to IoT Cloud solutions and use it for processing. I am using [Intel XDK IoT Edition](https://software.intel.com/en-us/html5/xdk-iot) for development.
 
@@ -11,10 +11,10 @@ To run this project, first you have to setup the Intel Edison, [this link](https
 
 **Wiring**
 
- 1. BMP180 Vcc to Edison Breakout Board's 3.3v 
- 2. BMP180 GND to Edison Breakout Board's GND 
- 3. BMP180 SDA to Edison Breakout Board's A4 
- 4. BMP180 SCL to Edison Breakout Board's A5
+ 1. BMP085 Vcc to Edison Breakout Board's 3.3v 
+ 2. BMP085 GND to Edison Breakout Board's GND 
+ 3. BMP085 SDA to Edison Breakout Board's A4 
+ 4. BMP085 SCL to Edison Breakout Board's A5
 
 **Screenshots**
 
