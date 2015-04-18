@@ -16,5 +16,13 @@ To run this project, first you have to setup the Intel Edison, [this link](https
  3. BMP180 SDA to Edison Breakout Board's A4 
  4. BMP180 SCL to Edison Breakout Board's A5
 
+**Screenshots**
 
+*Intel Edison*
+![Intel Edison](https://raw.githubusercontent.com/krvarma/edison-weather-station/master/images/IMG_0009.JPG)
 
+*Setting up Freeboard.io*
+![Setting up Freeboard.io](https://raw.githubusercontent.com/krvarma/edison-weather-station/master/images/datasource.png)
+
+*Freeboard Dashboard*
+![Freeboard Dashboard](https://raw.githubusercontent.com/krvarma/edison-weather-station/master/images/dashboard.png)
